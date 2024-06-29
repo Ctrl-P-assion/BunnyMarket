@@ -1,0 +1,23 @@
+# Ignore IDE files
+.idea/
+
+# Ignore compiled files
+*.class
+
+# Ignore build output
+/build/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore dependencies
+/node_modules/
+/vendor/
